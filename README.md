@@ -1,5 +1,5 @@
-### Assignments
+# Assignments
 Assignments AEA1
 
-#First Assignment
+##First Assignment
 https://joelleduff.github.io/CV-Joelle-Duff/
